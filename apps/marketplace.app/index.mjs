@@ -36,6 +36,8 @@ window.saved = $state({
 			"Anura Games": "https://games.anura.pro/",
 			"BomberFish's Extras":
 				"https://raw.githubusercontent.com/BomberFish/anura-repo/master/",
+			"Jaz":
+				"https://raw.githubusercontent.com/jaz/anura-repo/master/"
 		},
 	),
 });
